@@ -1,4 +1,4 @@
-const API_KEY = "pk.eyJ1IjoianVsaWFsZW9ub2ZmIiwiYSI6ImNrYXR6NnRwbTBmcWMyeW9jemdnaTJ2ajgifQ.HSHs0WzCPhklGQIJX2-J3A";
+const API_KEY = "finally remembered to take this out";
 
 // Set up URL
 // Dataset = All quakes past week
